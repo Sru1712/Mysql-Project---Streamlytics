@@ -1,0 +1,31 @@
+movie_id,title,genre,duration_mins,release_year
+1,The Matrix Reloaded,Sci-Fi,88,2003
+2,Fast & Furious 6,Action,169,2013
+3,Mad Max: Fury Road,Action,132,2015
+4,Interstellar,Sci-Fi,81,2014
+5,Antonement,Drama,163,2007
+6,The Hangover Part III,Comedy,171,2013
+7,The Lost City,Comedy,139,2022
+8,Superbad,Comedy,150,2007
+9,The Invisible Man,Sci-Fi,123,2020
+10,Jurassic World,Action,87,2015
+11,Prometheus,Sci-Fi,126,2012
+12,Blade Runner 2049,Sci-Fi,114,2017
+13,The Fault in Our Stars,Romance,157,2014
+14,Tenet,Action,160,2020
+15,Love Again,Romance,115,2023
+16,28 Weeks Later,Horror,129,2012
+17,The Dark Knight,Action,83,2008
+18,Captain America: The Winter Soldier,Action,81,2014
+19,The Avengers,Action,85,2012
+20,Meet the Parents,Comedy,133,2000
+21,Devil wears the Prada,Comedy,83,2006
+22,Twilight,Romance,133,2008
+23,"Red, White & Royal Blue",Romance,172,2023
+24,Mission: Impossible II,Action,142,2000
+25,"Crazy, Stupid, Love",Romance,97,2011
+26,Knocked Up,Comedy,169,2007
+27,The Creator,Sci-Fi,123,2023
+28,Inception,Sci-Fi,113,2010
+29,Ready Player One,Sci-Fi,153,2018
+30,La La Land,Romance,141,2016

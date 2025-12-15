@@ -1,0 +1,4 @@
+subscription_id,plan_name,price,no_of_month
+1,Basic,299,3
+2,Standard,499,6
+3,Premium,799,12
