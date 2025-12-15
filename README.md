@@ -46,3 +46,24 @@ To build a SQL-driven analytics solution that:
 - Year-wise revenue trends
 - Revenue contribution (%) of each subscription plan
 
+## Business Impact & Insights:
+- Content Strategy: Identifies high-performing and underperforming movies and genres
+- User Engagement: Helps understand viewing habits and engagement levels
+- Revenue Optimization: Highlights the most profitable subscription plans
+- Decision Support: Enables data-backed decisions for pricing, marketing, and content acquisition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
