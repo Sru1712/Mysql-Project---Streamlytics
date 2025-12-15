@@ -52,8 +52,9 @@ To build a SQL-driven analytics solution that:
 - Revenue Optimization: Highlights the most profitable subscription plans
 - Decision Support: Enables data-backed decisions for pricing, marketing, and content acquisition
 
-
-
+## Conclusion:
+Streamlytics demonstrates how structured SQL analysis can unlock meaningful insights from streaming platform data.
+The project reflects real-world data analyst workflows, combining database design, advanced SQL querying, and business-focused storytelling.
 
 
 
